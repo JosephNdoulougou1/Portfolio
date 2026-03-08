@@ -1,10 +1,10 @@
-# 👋 Bienvenue sur mon Portfolio
+#  Bienvenue sur mon Portfolio
 
 Étudiant en Master Finance à Excelia Business School (La Rochelle), je mets à disposition sur ce portfolio mes projets académiques et expériences professionnelles en finance, audit, analyse financière et data analysis.
 
 ---
 
-## 📌 Profil
+##  Profil
 
 Étudiant en **Master Finance** (Programme Grande École – **Excelia Business School**), je dispose d'une première expérience concrète en élaboration de reportings financiers, analyse et gestion de fichiers Excel sur projet réel, avec un budget d'environ **46 000 €** et une réduction de **10% des coûts** obtenue. 
 
@@ -12,7 +12,7 @@ Rigoureux, autonome et réactif, je souhaite mettre mes compétences en analyse 
 
 ---
 
-## 🎯 Compétences
+## Compétences
 
 ### Analyse Financière
 - Clôtures mensuelles et reporting financier
@@ -40,7 +40,7 @@ Rigoureux, autonome et réactif, je souhaite mettre mes compétences en analyse 
 
 ---
 
-## 📚 Formation
+## Formation
 
 ### Master Finance – Excelia Business School (La Rochelle)
 **2025 – 2027**
@@ -54,7 +54,7 @@ Rigoureux, autonome et réactif, je souhaite mettre mes compétences en analyse 
 
 ---
 
-## 💼 Expériences Professionnelles
+##  Expériences Professionnelles
 
 ### Suivi Administratif et Financier de Projet
 **EDONDE & Co Sarl (BTP), Douala** | 2023
@@ -91,7 +91,7 @@ Rigoureux, autonome et réactif, je souhaite mettre mes compétences en analyse 
 
 ---
 
-## 🗂️ Structure du Portfolio
+##  Structure du Portfolio
 
 ```
 Portfolio/
@@ -115,7 +115,7 @@ Portfolio/
 
 ---
 
-## 📞 Contact & Liens
+##  Contact & Liens
 
 - 📧 Email : joseph.ndoulougou@excelia.fr
 - 💼 LinkedIn : [Joseph Ndoulougou](https://linkedin.com)
